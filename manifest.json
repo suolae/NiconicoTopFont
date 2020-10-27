@@ -1,0 +1,16 @@
+{
+  "manifest_version":2,
+  "name":"Niconico Topfont",
+  "version":"1.0",
+  "description": "ニコニコTOPの潰れたフォントを改善",
+  "content_scripts":[
+    {
+      "matches":[
+        "https://www.nicovideo.jp/*"
+      ],
+      "css":[
+        "font.css"
+      ]
+    }
+  ]
+}
