@@ -1,3 +1,20 @@
-* {
+.AuroraVisionCard-metaCatch {
+    font-family: "sans-serif" !important;
+}
+.FrameTitleLink-titleText {
+    font-family: "sans-serif" !important;
+    font-size: 18px !important;
+}
+.PersonalFrameContainer-title {
+    font-family: "sans-serif" !important;
+}
+.ContentsPickupCard-metaCatch {
+    font-family: "sans-serif" !important;
+    font-weight: bold !important;
+}
+h1 {
+	font-family: "sans-serif"!important;
+}
+.AuroraVisionContainer-extPlayerLink{
     font-family: "sans-serif" !important;
 }
